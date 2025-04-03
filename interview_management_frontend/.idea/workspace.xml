@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22ccfa00-ae65-49a0-a87d-9b5cd36b8d57" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../interview_management_backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_management_backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Sidebar4.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Sidebar4.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/candidatemanagement/CandidateList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/candidatemanagement/CandidateList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/interviewmanagement/InterviewList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/interviewmanagement/InterviewList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/offermanagement/OffterList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/offermanagement/OffterList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/usermanagement/UserList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/usermanagement/UserList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/PrivateRoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/PrivateRoute.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2i5PAPx2vLyRwLb4XmbxPHIcozj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "D:/MOCK-ProjectBase/HN24_CPL_PJB_02/interview-management/interview_management_frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "D:\\MOCK-ProjectBase\\HN24_CPL_PJB_02\\interview-management\\interview_management_frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22ccfa00-ae65-49a0-a87d-9b5cd36b8d57" name="Changes" comment="" />
+      <created>1718777322165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718777322165</updated>
+      <workItem from="1718777323753" duration="257000" />
+      <workItem from="1719543824666" duration="213000" />
+      <workItem from="1720683439906" duration="261000" />
+      <workItem from="1721030141283" duration="223000" />
+      <workItem from="1721806313504" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
